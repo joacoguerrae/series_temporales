@@ -1,0 +1,11 @@
+jupyter
+jupyterlab-rise
+rise
+keras
+matplotlib
+numpy
+pandas<2.3
+scipy
+statsmodels
+tensorflow
+astsadata
